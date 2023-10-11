@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haiderzamanusafxay
-- 👀 I’m interested in web developement.
-- 🌱 I’m currently learning PHP and other web languages
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning web technologies and languages
 - 📫 How to reach me https://www.facebook.com/haideryousafzay
 
 <!---
