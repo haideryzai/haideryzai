@@ -1,41 +1,26 @@
-# Hi, I'm <YOUR NAME>! 👋
+# Hi, I'm Haider! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+Since January 2024, my focus has been on elevating the standard of full-stack development, particularly through the design of responsive single-page applications and robust APIs. Our team's proficiency in MongoDB, Express.js, React.js, NestJS, Amazon Web Services, MySQL and Node.js has enabled us to deliver scalable solutions that enhance user interactions.
+
+In this rapidly evolving industry, my commitment is anchored in continuous learning and adaptation, ensuring that our web solutions remain innovative and high-performing. It's this drive to push technological boundaries that defines our success and fuels our collaborative spirit.
 
 ![haiderzamanusafxay's Stats](https://github-readme-stats.vercel.app/api?username=haiderzamanusafxay&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
-
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/)
-
-
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,express,aws,nest,gcp,git,docker,jquery,mysql,nginx,mongodb,)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+  - Building server-side applications with Express, nest, mysql, mongodb etc.
+  - Diving into the DevOps world.
 
  ## 🏆 Achievements
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+- 🌟 Otained certification: Legacy JavaScript Algorithms and Data Structures from freeCodeCamp!
 
-
-## 📬 Get in Touch
-
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
